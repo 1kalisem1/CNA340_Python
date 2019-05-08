@@ -31,4 +31,4 @@ python demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here."# CNA340_Python" 
+Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.THANKS TO ZAK "# CNA340_Python" 
